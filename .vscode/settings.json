@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    "Remote.Access\\bin": true,
+    "Remote.Access\\obj": true,
+    ".vscode": true,
+    "SAL\\bin": true,
+    "SAL\\obj": true
+  }
+}
